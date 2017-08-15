@@ -27,3 +27,6 @@ E:\项目\ERP\AliSdk\ConsoleApplication1\bin\Debug\Carpa.pdb
 F:\任我行软件\项目\AliSdk\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 F:\任我行软件\项目\AliSdk\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 F:\任我行软件\项目\AliSdk\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\AliSdk\AliSdk\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Administrator\Desktop\AliSdk\AliSdk\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\AliSdk\AliSdk\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
