@@ -28,3 +28,10 @@ E:\项目\ERP\AliSdk\AliSdk\obj\Debug\AliSdk.dll
 E:\项目\ERP\AliSdk\AliSdk\obj\Debug\AliSdk.pdb
 E:\项目\ERP\AliSdk\AliSdk\bin\Debug\log4net.dll
 E:\项目\ERP\AliSdk\AliSdk\bin\Debug\Carpa.pdb
+G:\AliSdk\AliSdk\AliSdk\bin\Debug\AliSdk.dll
+G:\AliSdk\AliSdk\AliSdk\bin\Debug\AliSdk.pdb
+G:\AliSdk\AliSdk\AliSdk\bin\Debug\log4net.dll
+G:\AliSdk\AliSdk\AliSdk\bin\Debug\Carpa.pdb
+G:\AliSdk\AliSdk\AliSdk\obj\Debug\AliSdk.csprojResolveAssemblyReference.cache
+G:\AliSdk\AliSdk\AliSdk\obj\Debug\AliSdk.dll
+G:\AliSdk\AliSdk\AliSdk\obj\Debug\AliSdk.pdb
