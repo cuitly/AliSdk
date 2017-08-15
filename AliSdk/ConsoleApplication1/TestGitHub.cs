@@ -8,6 +8,8 @@ namespace ConsoleApplication1
     class TestGitHub
     {
         public TestGitHub()
-        { }
+        {
+            string str;
+        }
     }
 }
